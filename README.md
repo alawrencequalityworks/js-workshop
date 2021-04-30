@@ -1,6 +1,6 @@
 # js-workshop
 
-Fork this repository to your account and then clone it. Create a new branch in the format <firstname>-<lastname>-workshop and then
+Fork this repository to your account and then clone it. Create a new branch in the format [firstname]-[lastname]-workshop and then
 perform the following activities:
   
 - add the files with the ativities that you completed in the workshop
